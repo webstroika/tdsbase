@@ -12,7 +12,7 @@ export default function AccordionDemo() {
         <AccordionTrigger>Product Information</AccordionTrigger>
         <AccordionContent className="flex flex-col gap-4">
           <p>
-            Our flagship product combines cutting-edge technology with sleek
+            Our test flagship product combines cutting-edge technology with sleek
             design. Built with premium materials, it offers unparalleled
             performance and reliability.
           </p>

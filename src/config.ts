@@ -3,13 +3,13 @@ export const config = {
     process.env.NODE_ENV === "production"
       ? `https://${process.env.NEXT_PUBLIC_VERCEL_PROJECT_PRODUCTION_URL}`
       : `http://localhost:3000`,
-  githubUrl: "https://github.com/akash3444/basecn",
+  githubUrl: "https://github.com/webstroika/tdsbase",
 };
 
 export const siteConfig = {
-  name: "basecn",
+  name: "tdsbase",
   title: "shadcn/ui components powered by Base UI",
   description:
-    "Beautifully crafted shadcn/ui components powered by Base UI, providing a solid foundation to build modern and elegant interfaces with speed.",
+    "TDS Beautifully crafted shadcn/ui components powered by Base UI, providing a solid foundation to build modern and elegant interfaces with speed.",
   url: config.appUrl,
 };

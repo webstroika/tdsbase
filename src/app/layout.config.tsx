@@ -14,7 +14,7 @@ export const baseOptions: BaseLayoutProps = {
     title: (
       <div className="flex items-center gap-2">
         <Bolt className="text-foreground/70 fill-foreground/10" />
-        <span className="text-lg font-bold">basecn</span>
+        <span className="text-lg font-bold">tdsbase</span>
       </div>
     ),
   },
